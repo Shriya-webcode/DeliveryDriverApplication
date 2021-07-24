@@ -28,7 +28,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TypeScriptToolsVersion>4.2</TypeScriptToolsVersion>
-    <!--<SpaRoot>ClientApp\</SpaRoot>-->
+    <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -405,6 +405,13 @@
     <Content Include="Scripts\css\bootstrap-grid.min.css.map" />
     <Content Include="Scripts\css\bootstrap-reboot.min.css.map" />
     <Content Include="Scripts\css\bootstrap.min.css.map" />
+    <Content Include="Scripts\Cleint-App\favicon.ico" />
+    <Content Include="Scripts\Cleint-App\index.html" />
+    <Content Include="Scripts\Cleint-App\main.js" />
+    <Content Include="Scripts\Cleint-App\polyfills.js" />
+    <Content Include="Scripts\Cleint-App\runtime.js" />
+    <Content Include="Scripts\Cleint-App\styles.js" />
+    <Content Include="Scripts\Cleint-App\vendor.js" />
     <Content Include="Scripts\fonts\elegant_font\HTML_CSS\fonts\ElegantIcons.svg" />
     <Content Include="Scripts\fonts\elegant_font\HTML_CSS\index.html" />
     <Content Include="Scripts\fonts\elegant_font\HTML_CSS\lte-ie7.js" />
