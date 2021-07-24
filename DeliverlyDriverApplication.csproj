@@ -2911,7 +2911,7 @@
     <Content Include="Scripts\revolution\php\twitter\.DS_Store" />
     <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Shared\_Footer.cshtml" />
-    <Content Include="Publish.zipx" />
+    <Content Include="Publish.zip" />
     <None Include="Views\Shared\_Angular.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
