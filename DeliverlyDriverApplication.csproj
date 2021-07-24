@@ -265,7 +265,6 @@
     <Content Include="Scripts\css\colors\scheme-06.css" />
     <Content Include="Scripts\css\colors\scheme-07.css" />
     <Content Include="Scripts\css\colors\scheme-08.css" />
-    <Content Include="Scripts\css\font-awesome.min.css" />
     <Content Include="Scripts\css\jpreloader.css" />
     <Content Include="Scripts\css\jquery.countdown.css" />
     <Content Include="Scripts\css\magnific-popup.css" />
